@@ -1,0 +1,10 @@
+to-do
+
+login form validations
+
+
+done
+
+add logout button
+login page
+chat page
